@@ -1,3 +1,6 @@
+![ROS 2](https://img.shields.io/badge/ROS-2-brightgreen)
+![Humble](https://img.shields.io/badge/Distribution-Humble-blue)
+
 # diffdrive
 
 ROS 2 Python package a diff-drive robotok vezérléséhez.
