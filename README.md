@@ -33,5 +33,5 @@ A node a pygame könyvtárat használja a billentyűzet események kezelésére.
 
 A hírdetet topic ellenőrzése:
    ```bash
-   ros2 topic echp /cmd_vel
+   ros2 topic echo /cmd_vel
    ```
