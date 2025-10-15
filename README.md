@@ -1,5 +1,4 @@
-![ROS 2](https://img.shields.io/badge/ROS-2-brightgreen)
-![Humble](https://img.shields.io/badge/Distribution-Humble-blue)
+#ROS 2 python pacakge, ![Humble](https://img.shields.io/badge/Distribution-Humble-blue)
 
 # diffdrive
 
